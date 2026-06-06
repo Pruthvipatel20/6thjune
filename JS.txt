@@ -5,11 +5,15 @@
 </HEAD>
 <BOdy>
 
-    <h1 style="font-size: 60px;">JavaScript Example 1</h1>
-    <p id="demo" style="font-size: 25px;" >This Is A Simple JavaScript Example.</p>
+    <h1 style="font-size: 60px;">JavaScript Example 1
+</h1>
+    
+    <p id="demo" style="font-size: 25px;" >This Is A Simple JavaScript Example.
+</p>
+    
     <p id="date" style="color:brown; 
                         font-size: xx-large;">
-    </p>
+</p>
     
     <button type="button" onclick="alert('Hellooo, JavaScript')" 
                         onkeypress="alert('You Are Learning JS Faster Then All')">Alert Me!</button>
@@ -30,6 +34,7 @@
                     ondblclick="document.body.style.backgroundColor='red'"
             >Change Background Color!</button>
     <button type="button" onclick="location.reload()">Refresh</button>
+
 
 
 </BOdy>
